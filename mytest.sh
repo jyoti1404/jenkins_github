@@ -3,5 +3,3 @@ date
 cal
 echo "bye..."
 echo "jenkins triggers"
-date
-

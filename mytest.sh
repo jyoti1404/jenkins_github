@@ -4,4 +4,4 @@ cal
 echo "bye..."
 echo "jenkins triggers"
 date
-cal
+
